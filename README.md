@@ -3,6 +3,7 @@
 <p align="center">
   <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/037e90f0-c3fe-4f33-9c9f-2d184dfb051b" />
 </p>
+
 ## Mealy: Diet Meal Planner
 Microservice ini dikembangkan dalam rangka memenuhi UAS II3160 Teknologi Sistem Terintegrasi, lebih tepatnya Tugas 3 - Integrasi Layanan 
 Nama Pembuat Layanan Integrasi: Favian Rafi Laftiyanto / 18223036
