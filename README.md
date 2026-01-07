@@ -33,7 +33,7 @@ Layanan ini dikembangkan dengan memanfaatkan 2 buah API yang telah dibuat pada T
 - **Deployment**: GitHub Pages dan Azure Virtual Machine (2 versi berbeda)
 
 ### D. Cara Kerja Aplikasi
-1. **Access Key Authentication**: Pengguna harus memasukkan access key "Mealy-UAS-TST2025" ke website Mealy untuk dapat sepenuhnya menggunakan fitur-fitur Mealy.
+1. **Access Key Authentication**: Pengguna harus memasukkan access key **Mealy-UAS-TST2025** ke website Mealy untuk dapat sepenuhnya menggunakan fitur-fitur Mealy.
 2. **Input Data**: Pengguna memasukkan data fisik dan memilih riwayat kondisi medis.
 3. **Analisis Nutrisi**: Aplikasi mengirim data ke API untuk mendapatkan kalkulasi batasan nutrisi (Constraints).
 4. **Pencocokan Data**: Algoritma aplikasi memfilter database makanan yang ada di API untuk mencari menu yang tidak melanggar batasan nutrisi pengguna.
@@ -41,7 +41,7 @@ Layanan ini dikembangkan dengan memanfaatkan 2 buah API yang telah dibuat pada T
 
 ### E. Screenshot Website
 #### Access Key Authentication Page
-
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/69f6dda6-19e7-4d30-a607-fc5e64d181d5" />
 
 #### Main Page
 <img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/049359dd-4ac0-4c21-99ad-f57e77e28a3e" />
